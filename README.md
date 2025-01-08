@@ -1,6 +1,6 @@
 # Email Checker MCP Server
 
-For your cold outbound email campaigns, this tool will help you validate email addresses.
+For your cold outbound email, this tool will help you validate email addresses.
 
 ## Features
 
