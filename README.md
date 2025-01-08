@@ -65,6 +65,9 @@ The service provides a FastMCP tool for validating email addresses:
 async def validate_email(email: str) -> bool:
     """Validate if an email address exists."""
 ```
+## Example Use: 
+Prompt: Does this email exist? 
+![Uploading Screenshot 2025-01-08 at 10.14.43 AM.png…]()
 
 ### Parameters:
 - `email`: String containing the email address to validate
