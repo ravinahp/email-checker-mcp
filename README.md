@@ -67,7 +67,9 @@ async def validate_email(email: str) -> bool:
 ```
 ## Example Use: 
 Prompt: Does this email exist? 
-![Uploading Screenshot 2025-01-08 at 10.14.43 AM.png…]()
+<img width="769" alt="Screenshot 2025-01-08 at 10 14 43 AM" src="https://github.com/user-attachments/assets/1bee703b-3a8a-4ed0-ab0d-27b0dfdd06de" />
+
+
 
 ### Parameters:
 - `email`: String containing the email address to validate
