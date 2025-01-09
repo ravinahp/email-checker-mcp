@@ -2,6 +2,8 @@
 
 For your cold outbound email, this tool will help you validate email addresses.
 
+<a href="https://glama.ai/mcp/servers/6gnoi1heh5"><img width="380" height="200" src="https://glama.ai/mcp/servers/6gnoi1heh5/badge" alt="Email Checker Server MCP server" /></a>
+
 ## Features
 
 - Email address validation
